@@ -105,6 +105,41 @@
                "Type":"game",
                "Poster":"https://m.media-amazon.com/images/M/MV5BYWI5ODU0ZGEtYTA4YS00YzliLWJiZjEtYThkNTBkNTY1Y2FhXkEyXkFqcGdeQXVyNDAzNzA0MzE@._V1_SX300.jpg"
             },
+         {
+         "Title":"Night at the Museum",
+         "Year":"2006",
+         "imdbID":"tt0477347",
+         "Type":"movie",
+         "Poster":"https://m.media-amazon.com/images/M/MV5BODJkN2UyMzQtYTY0MS00Nzg4LWEyNjYtYzRhM2VmY2YwNGM2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg"
+      },
+      {
+         "Title":"Night at the Museum: Battle of the Smithsonian",
+         "Year":"2009",
+         "imdbID":"tt1078912",
+         "Type":"movie",
+         "Poster":"https://m.media-amazon.com/images/M/MV5BMGZjZDE2NjUtMzVkNy00N2UyLTg5MjYtYzY1ZmM1YWY3ZTZmXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_SX300.jpg"
+      },
+      {
+         "Title":"Night at the Museum: Secret of the Tomb",
+         "Year":"2014",
+         "imdbID":"tt2692250",
+         "Type":"movie",
+         "Poster":"https://m.media-amazon.com/images/M/MV5BMjI1MzM2ODEyMV5BMl5BanBnXkFtZTgwNTIzODAwMzE@._V1_SX300.jpg"
+      },
+      {
+         "Title":"Night at the Museum: Kahmunrah Rises Again",
+         "Year":"2022",
+         "imdbID":"tt13623880",
+         "Type":"movie",
+         "Poster":"https://m.media-amazon.com/images/M/MV5BNjc1NTUyMzYtOThiZS00YWYwLWFjYzYtYWIzYjViY2JiYTZhXkEyXkFqcGdeQXVyMTI2MzY1MjM1._V1_SX300.jpg"
+      },
+      {
+         "Title":"Night at the Museum: Battle of the Smithsonian",
+         "Year":"2009",
+         "imdbID":"tt1425242",
+         "Type":"game",
+         "Poster":"https://m.media-amazon.com/images/M/MV5BMjIzNTIxNzk0Ml5BMl5BanBnXkFtZTgwNDQxOTM5MDE@._V1_SX300.jpg"
+      },
             {
                "Title":"The Lord of the Rings: The Battle for Middle-Earth II",
                "Year":"2006",
